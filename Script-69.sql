@@ -114,7 +114,7 @@ END IF;
 	
 END;
 
-SELECT * FROM ENROLLED;
+
 
 
 
