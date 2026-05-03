@@ -119,4 +119,4 @@ Two SQL views are created for easy reporting:
 ---
 
 ## AUTHOR 
-** Japanjot Singh
+**Japanjot Singh**
