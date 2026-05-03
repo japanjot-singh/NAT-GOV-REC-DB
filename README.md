@@ -118,4 +118,5 @@ Two SQL views are created for easy reporting:
 
 ---
 
-*Developed as part of 3rd Semester Database Management coursework at Chandigarh University*
+## AUTHOR 
+** Japanjot Singh
